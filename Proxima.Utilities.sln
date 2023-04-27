@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A6F285A4-4D7A-40F2-B929-184A5849C60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxima.Utilities.Disposables", "src\Proxima.Utilities.Disposables\Proxima.Utilities.Disposables.csproj", "{AE5B936B-283B-4782-B453-5C18F927B53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AE5B936B-283B-4782-B453-5C18F927B53C} = {A6F285A4-4D7A-40F2-B929-184A5849C60A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE5B936B-283B-4782-B453-5C18F927B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE5B936B-283B-4782-B453-5C18F927B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE5B936B-283B-4782-B453-5C18F927B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE5B936B-283B-4782-B453-5C18F927B53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
