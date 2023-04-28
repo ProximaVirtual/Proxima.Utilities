@@ -6,7 +6,7 @@
         <TargetFramework>netstandard2.1</TargetFramework>
         <PackageId>Proxima.Utilities.Disposables</PackageId>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageTags>Proxima Virtual;IDisposable</PackageTags>
+        <PackageTags>Proxima Virtual;IDisposable;Utilities;Extensions</PackageTags>
         <RepositoryUrl>https://github.com/ProximaVirtual/Proxima.Utilities.git</RepositoryUrl>
     </PropertyGroup>
 </Project>
