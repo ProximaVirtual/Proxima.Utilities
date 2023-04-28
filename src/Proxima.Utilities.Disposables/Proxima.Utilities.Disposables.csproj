@@ -8,6 +8,7 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageTags>Proxima Virtual;IDisposable;Utilities;Extensions</PackageTags>
+        <Description>Provides useful utilities related to IDisposable.</Description>
         <RepositoryUrl>https://github.com/ProximaVirtual/Proxima.Utilities.git</RepositoryUrl>
     </PropertyGroup>
 </Project>
